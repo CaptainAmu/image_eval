@@ -1,6 +1,6 @@
 ## Image Evaluation Package
 
-This is to be used jointly with the ```diffusers``` experiment repo, in which results are stored in ```MY_EXPERIMENTS/FK_correct_loras/output```.
+This is to be used jointly with the ```diffusers``` experiment repo, in which results are stored in ```MY_EXPERIMENTS/FK_correct_loras/output```. (the experiment about Feynman-Kac Correctors for LoRA compositions...)
 
 To run image evaluation, use the virtual environment ```image_eval``` using ```image_eval.yaml```. 
 
